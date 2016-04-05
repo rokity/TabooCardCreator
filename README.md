@@ -1,4 +1,4 @@
-<h1> Taboo Creator Random Card (only for Italian Mother)</h1>
+<h1> Taboo Creator Random Card (only for Italian Master)</h1>
 <h3>dependencies</h3>
 This script is based on <a href="www.robertoiacono.it/gioca-taboo-online.php">this page</a> , and so if the script doesn't work you know the reason.
 <h3>Requirements</h3>
