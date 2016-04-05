@@ -1,0 +1,17 @@
+{
+  "name": "taboo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "htmlparser": "^1.7.7",
+    "request": "^2.69.0"
+  }
+}
